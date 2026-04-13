@@ -108,12 +108,6 @@ Client → Broker REST → Broker FIX Service → Exchange
 - Order state persistence during outbound and inbound flows
 - WebSocket delivery foundation
 
-## What remains incomplete
-
-- Full WebSocket integration across all order lifecycle transitions
-- Dedicated broker-based event streaming infrastructure
-- Formalized event contract registry / schema validation
-- Production-grade backpressure controls
 
 ## Suggested Resume Bullet
 
