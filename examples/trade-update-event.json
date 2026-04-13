@@ -1,0 +1,11 @@
+{
+  "version": "v1",
+  "type": "TRADE_UPDATE",
+  "timestamp": 1710000000123,
+  "data": {
+    "tradeId": "TRD-9001",
+    "symbol": "AAPL",
+    "lastQty": 50,
+    "lastPx": 182.35
+  }
+}

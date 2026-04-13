@@ -1,0 +1,13 @@
+{
+  "version": "v1",
+  "type": "ORDER_UPDATE",
+  "timestamp": 1710000000000,
+  "data": {
+    "clOrdId": "ORD-10045",
+    "symbol": "AAPL",
+    "side": "BUY",
+    "status": "PARTIALLY_FILLED",
+    "cumQty": 50,
+    "leavesQty": 50
+  }
+}
